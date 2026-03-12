@@ -17,5 +17,5 @@ O arquivo `README.md` é a vitrine ou a "capa" do seu projeto. É a primeira coi
 3. **[Desafio]** Clicar no ícone de lápis (editar) deste arquivo, assinar com seu nome completo e deixar um recado!
 
 Mande o seu recado aqui:
----
+André: "A ordem dos tratores não altera o viaduto" - Albert Einstein
 *Feito com 💻 e foco pela nossa turma de Desenvolvimento de Sistemas.*
